@@ -95,7 +95,7 @@ footer#rodape {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: calc(100% - 131px);
+    margin-top: 100px;
     height: 100px;
     width: 100%;
     box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.4);
