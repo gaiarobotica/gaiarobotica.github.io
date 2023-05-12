@@ -126,8 +126,8 @@ div.notice {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 40px;
-    background-color: #00a2ff;
+    height: 50px;
+    background-color: #ff0000;
 }
 
 div.notice p {
@@ -137,5 +137,6 @@ div.notice p {
 }
 div.notice a {
     color: #fff;
-    font-weight: 600; 
+    font-weight: 600;
+    font-size: 13pt; 
 }
